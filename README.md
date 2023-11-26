@@ -8,6 +8,8 @@ implementation of it for React Native. For more information about how
 the animations behind this work, check out the Rebound section of the
 [React Native Animation Guide](https://facebook.github.io/react-native/docs/animations.html)
 
+### Notice
+please keep in mind that this repository is a fork of [ptomasroos react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) and i've just modified it to fit my needs.
 
 ## Add it to your project
 
